@@ -1,0 +1,30 @@
+.div1{
+    margin:75px auto;
+  
+    max-width: 500px ;
+    height: 400px;
+    
+}
+
+.form1{
+    
+    max-width: 400px ;
+    height: 300px;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: 30px auto;
+    background-color: #708090
+
+    
+}
+h1{
+    text-align: center;
+    margin-top: 10px;
+}
+h1, input, label{
+    margin-left:30px ;
+}
+
+button{
+    margin-left: 30px;
+}
